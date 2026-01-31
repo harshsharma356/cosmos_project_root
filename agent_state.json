@@ -1,0 +1,1390 @@
+[
+  {
+    "timestamp": 1769871767.1517725,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769883671.9542484,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769884194.9055245,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769884203.3500023,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769884217.2861843,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769884879.0202599,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769885309.0462086,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769885595.2227242,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "proactive_merchant_notification",
+        "reason": "Pattern detected across multiple merchants",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769885643.253926,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "proactive_merchant_notification",
+        "reason": "Pattern detected across multiple merchants",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769886428.1593697,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "proactive_merchant_notification",
+        "reason": "Pattern detected across multiple merchants",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769886953.5506725,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769887549.3341823,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769889063.5496545,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769890253.675023,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "proactive_merchant_notification",
+        "reason": "Pattern detected across multiple merchants",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769890262.8564916,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "proactive_merchant_notification",
+        "reason": "Pattern detected across multiple merchants",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769890287.58236,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "proactive_merchant_notification",
+        "reason": "Pattern detected across multiple merchants",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769890903.2907925,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Likely merchant-side migration misconfiguration"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "proactive_merchant_notification",
+        "reason": "Pattern detected across multiple merchants",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769891545.8638885,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769895871.2734072,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769896405.6794364,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769896503.33936,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769897022.4182343,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769897065.1590998,
+    "observation_id": 2,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769897100.2919407,
+    "observation_id": 3,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769897145.305152,
+    "observation_id": 4,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769897210.182571,
+    "observation_id": 5,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769897262.1757052,
+    "observation_id": 6,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769897297.2881494,
+    "observation_id": 7,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769897353.1951122,
+    "observation_id": 8,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769897387.943351,
+    "observation_id": 9,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769898118.1317804,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769898147.5262208,
+    "observation_id": 2,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769898193.4928515,
+    "observation_id": 3,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769898239.049808,
+    "observation_id": 4,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769899482.5358644,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769899830.4119365,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769899857.4206154,
+    "observation_id": 2,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769899862.4998114,
+    "observation_id": 3,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769899895.3374538,
+    "observation_id": 4,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769899948.0631673,
+    "observation_id": 5,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769899953.1568596,
+    "observation_id": 6,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769899958.2279162,
+    "observation_id": 7,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769899977.3963993,
+    "observation_id": 8,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900007.5086844,
+    "observation_id": 9,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900022.1091986,
+    "observation_id": 10,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900045.583374,
+    "observation_id": 11,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900050.7188747,
+    "observation_id": 12,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900055.811233,
+    "observation_id": 13,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900075.9747376,
+    "observation_id": 14,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900130.358588,
+    "observation_id": 15,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900135.4513128,
+    "observation_id": 16,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900140.5438154,
+    "observation_id": 17,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900145.641081,
+    "observation_id": 18,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900178.934738,
+    "observation_id": 19,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900184.027899,
+    "observation_id": 20,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900206.0952587,
+    "observation_id": 21,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "High uncertainty in root cause"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900211.3076992,
+    "observation_id": 22,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769900232.2244954,
+    "observation_id": 23,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Cause unclear or unknown"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901197.9758098,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901203.0815368,
+    "observation_id": 2,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769901208.2049196,
+    "observation_id": 3,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769901223.8133757,
+    "observation_id": 4,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901228.9545934,
+    "observation_id": 5,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Webhook authentication failures detected"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901250.9186213,
+    "observation_id": 6,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901256.0366566,
+    "observation_id": 7,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769901295.3087149,
+    "observation_id": 8,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901300.4054387,
+    "observation_id": 9,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Webhook authentication failures detected"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901336.2595968,
+    "observation_id": 10,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901341.3638208,
+    "observation_id": 11,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769901346.4784625,
+    "observation_id": 12,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769901394.9599848,
+    "observation_id": 13,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901400.063405,
+    "observation_id": 14,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Webhook authentication failures detected"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901696.132159,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Webhook authentication failures detected"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901701.2049675,
+    "observation_id": 2,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Webhook authentication failures detected"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901750.7751853,
+    "observation_id": 3,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901796.6823847,
+    "observation_id": 4,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901801.780494,
+    "observation_id": 5,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769901851.1861422,
+    "observation_id": 6,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901870.5939403,
+    "observation_id": 7,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901875.7049084,
+    "observation_id": 8,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769901880.812031,
+    "observation_id": 9,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769901908.6910374,
+    "observation_id": 10,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901922.0838454,
+    "observation_id": 11,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901960.6306782,
+    "observation_id": 12,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769901965.730003,
+    "observation_id": 13,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769902488.557088,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769902493.662446,
+    "observation_id": 2,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769902525.1486874,
+    "observation_id": 3,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769902530.2656245,
+    "observation_id": 4,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Webhook authentication failures detected"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769902555.0175314,
+    "observation_id": 5,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769902560.088175,
+    "observation_id": 6,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769902565.1812053,
+    "observation_id": 7,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769902570.2771242,
+    "observation_id": 8,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769902589.314758,
+    "observation_id": 9,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769902594.4219546,
+    "observation_id": 10,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769902620.2605245,
+    "observation_id": 11,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769902644.1447978,
+    "observation_id": 12,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769902673.7969832,
+    "observation_id": 13,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769902717.1729517,
+    "observation_id": 14,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Root cause unclear, monitoring for changes"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769902722.2808108,
+    "observation_id": 15,
+    "actions_taken": [
+      {
+        "action": "support_guidance_prepared",
+        "message": "Provide merchant with migration checklist, webhook verification steps, and API credential validation.",
+        "reason": "Webhook authentication failures detected"
+      }
+    ],
+    "pending_approvals": [],
+    "risk_level": "low"
+  },
+  {
+    "timestamp": 1769904330.1208048,
+    "observation_id": 1,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  },
+  {
+    "timestamp": 1769904335.1930528,
+    "observation_id": 2,
+    "actions_taken": [
+      {
+        "action": "monitoring",
+        "note": "Mismatch may resolve after configuration sync"
+      }
+    ],
+    "pending_approvals": [
+      {
+        "type": "documentation_update_suggestion",
+        "reason": "Frontend and backend state mismatch observed",
+        "requires_human_approval": true
+      }
+    ],
+    "risk_level": "medium"
+  }
+]

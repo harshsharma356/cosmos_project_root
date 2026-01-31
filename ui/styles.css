@@ -1,0 +1,144 @@
+:root {
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --border: #e2e8f0;
+
+  --text: #0f172a;
+  --muted: #475569;
+
+  --blue-soft: #e0f2fe;
+  --blue: #0284c7;
+  --blue-dark: #0369a1;
+
+  --green-soft: #dcfce7;
+  --green: #15803d;
+
+  --red-soft: #fee2e2;
+  --red: #b91c1c;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  margin: 0;
+  padding: 24px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 24px;
+}
+
+/* Sidebar */
+.sidebar {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px;
+  height: 80vh;
+  overflow-y: auto;
+}
+
+.sidebar li {
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 13px;
+  margin-bottom: 6px;
+}
+
+.sidebar li:hover {
+  background: var(--blue-soft);
+}
+
+.sidebar li.active {
+  background: var(--blue);
+  color: white;
+  font-weight: 600;
+}
+
+/* Main grid */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 18px;
+}
+
+.card h3 {
+  margin-top: 0;
+  font-size: 14px;
+  color: var(--blue-dark);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Badge */
+.badge {
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.badge.llm {
+  background: var(--green-soft);
+  color: var(--green);
+}
+
+.badge.deterministic {
+  background: var(--blue-soft);
+  color: var(--blue);
+}
+
+.badge.llm_failed {
+  background: var(--red-soft);
+  color: var(--red);
+}
+
+/* Content blocks */
+.block {
+  margin-bottom: 14px;
+}
+
+.block-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+
+.item {
+  font-size: 13px;
+  margin-bottom: 6px;
+  line-height: 1.4;
+}
+
+.item strong {
+  color: var(--blue-dark);
+}
+
+.pill {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  background: var(--blue-soft);
+  color: var(--blue);
+  margin-left: 6px;
+}

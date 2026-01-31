@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Agentic AI – Explainability Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<h1>Agentic AI – Explainability Dashboard</h1>
+
+<div class="layout">
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <h2>Incidents</h2>
+    <ul id="incidentList"></ul>
+  </aside>
+
+  <!-- Main content -->
+  <main class="grid">
+
+    <div class="card observe">
+      <h3>Observe</h3>
+      <div id="observe"></div>
+    </div>
+
+    <div class="card reason">
+      <h3>
+        Reason
+        <span id="reasoningBadge" class="badge"></span>
+      </h3>
+      <div id="reason"></div>
+    </div>
+
+    <div class="card decide">
+      <h3>Decide</h3>
+      <div id="decide"></div>
+    </div>
+
+    <div class="card act">
+      <h3>Act</h3>
+      <div id="act"></div>
+    </div>
+
+    <div class="card learn">
+     <h3>Learning Over Time</h3>
+     <div id="learning"></div>
+    </div>
+
+
+  </main>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
